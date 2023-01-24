@@ -15,7 +15,7 @@ Visit etiher one of these link to fetch different data set:
 - [http://localhost:3000/artwork/0](http://localhost:3000/artwork/0)
 - [http://localhost:3000/artwork/1](http://localhost:3000/artwork/1)
 
-## Live Demo (note: `BrowserRouter` not supported by GitHub Pages)
+## Live Demo (note: `BrowserRouter` not supported by GitHub Pages) [ClientSideRouting](https://create-react-app.dev/docs/deployment/#notes-on-client-side-routing)
 https://kaelsky.github.io/#/artwork/0
 
 ## Dependancies
