@@ -5,10 +5,8 @@ import { ErrorPage } from "./components/ErrorPage";
 function App() {
   return (
     <Routes>
-      <Route path="/">
-        <Route path="/artwork/:id" element={<Artwork />} />
-        <Route path="*" element={<ErrorPage />} />
-      </Route>
+      <Route path="/artwork/:id" element={<Artwork />} />
+      <Route path="*" element={<ErrorPage />} />
     </Routes>
   );
 }
